@@ -79,7 +79,6 @@ working common features of on single-page applications.
 - Context in JavaScript (7)
   - ⭐️ Quiz: Context in JavaScript
 - Object-Oriented JavaScript (15 - optional)
-  - ⭐️ Quiz: Object-Oriented JavaScript (optional)
 - JavaScript Inheritance (7 - optional)
 - Additional Practice: JavaScript (9)
 - JavaScript Project Prep
