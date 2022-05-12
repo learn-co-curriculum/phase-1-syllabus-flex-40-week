@@ -25,7 +25,9 @@ JavaScript, focusing on writing **functions** and working with **arrays** and
 **objects**. There are a good amount of lessons to complete, but many of these
 review the same concepts you explored in the prework.
 
-**Total Assignments: (64)**
+### Week 1
+
+**Total Assignments: (29)**
 
 - Welcome to Phase 1 (2)
 - JavaScript Fundamentals (11)
@@ -34,57 +36,81 @@ review the same concepts you explored in the prework.
   - ⭐️ Functions in JavaScript Quiz
 - Scope (6)
   - ⭐️ Scope Quiz
+
+### Week 2
+
+**Total Assignments: (32)**
+
 - Working with Data Structures in JavaScript (13)
   - ⭐️ Working with Objects in JavaScript Quiz
 - Video Series: Array Iteration (7)
 - Array Iteration (12)
   - ⭐️ Working with Arrays in JavaScript Quiz
-- JavaScript Advanced Syntax (3)
 
 ## Weeks 3 – 4
 
 After learning how to use JavaScript as a language, you'll get to put it to
-practical use by using JavaScript to create interactive webpages. This week
-introduces the "three pillars" of JavaScript that let you build a single-page
+practical use by using JavaScript to create interactive webpages. You'll learn
+about the "three pillars" of JavaScript that let you build a single-page
 application: **DOM Manipulation** (modifying the structure of the page in JS),
 **Event Handling** (writing JS to respond to user events, like clicking or
 typing on the page), and **Network Communication** (using JS to access data from
 a remote data source, like a web API).
 
-**Total Assignments: (40)**
+### Week 3
 
+**Total Assignments: (26)**
+
+- JavaScript Advanced Syntax (3)
 - Introducing Flatiron's Three Pillars of JavaScript (2)
 - JavaScript and the DOM (11)
   - ⭐️ JavaScript and The DOM Quiz
 - JavaScript Events (10)
   - ⭐️ JavaScript Events Quiz
+
+### Week 4
+
+**Total Assignments: (19)**
+
 - Communicating with the Server (17)
   - ⭐️ Communicating with the Server Quiz
-
-## Weeks 5 – 6
-
-Next up, you'll finish learning about the "three pillars" of JavaScript. You'll
-explore some more advanced concepts like **context**, **object orientation**,
-and **inheritance** that will give you tools to write more expressive programs
-and understand the language at a deeper level. You'll also start prepping for
-your first project by working on some smaller practice exercises to get practice
-working common features of on single-page applications.
-
-**Total Assignments: (28 plus optionals)**
-
 - Combining the Three Pillars (2)
+
+## Weeks 5 – 7
+
+Next up, you'll explore some more advanced concepts like **context**, **object
+orientation**, and **inheritance** that will give you tools to write more
+expressive programs and understand the language at a deeper level. You'll also
+start prepping for your first project by working on some smaller exercises to
+get practice working on common features of single-page applications.
+
+### Week 5
+
+**Total Assignments: (20)**
+
 - Applying Your Learning (4)
   - ⭐️ GitHub Search App
 - (Optional) Additional Practice: JavaScript (6)
 - Algorithmic Problem Solving (10)
   - ⭐️ Algorithmic Problem Solving Quiz
+
+### Week 6
+
+**Total Assignments: (22)**
+
 - Context in JavaScript (7)
   - ⭐️ Context in JavaScript Quiz
 - (Optional) Object-Oriented JavaScript (15)
+
+### Week 7
+
+**Total Assignments: (15)**
+
 - (Optional) JavaScript Inheritance (7)
 - (Optional) Additional Practice: HTML Forms and Modern Elements (8)
 
-## Weeks 7 – 8
+
+## Weeks 8 - 9
 
 Project time! You'll be building a JavaScript project using all the tools you've
 learned since starting this phase. The project is your chance to solidify your
