@@ -1,4 +1,4 @@
-# Phase 1 Syllabus: Flex Program, 40 Week Pace
+# Phase 1 Syllabus: Flex Program 40 Week Pace
 
 ## Learning Objectives
 
